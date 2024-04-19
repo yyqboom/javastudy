@@ -1,2 +1,6 @@
-package proxy.base;public interface IAction {
+package proxy.base;
+
+public interface IAction {
+
+    void action();
 }
